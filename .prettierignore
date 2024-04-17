@@ -1,0 +1,6 @@
+/dist
+/coverage
+/node_modules
+/.angular/cache
+/.nx/cache
+.vscode
